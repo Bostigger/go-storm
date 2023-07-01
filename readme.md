@@ -2,7 +2,8 @@
 
 GoStorm is a Command Line Interface (CLI) application written in Go. It retrieves weather information for a specified city using OpenWeatherMap's API.
 
-https://github.com/Bostigger/go-storm/assets/52701136/9426e876-bc24-46f5-85ab-11516eafa28c
+https://github.com/Bostigger/go-storm/assets/52701136/3c5e60f9-9322-47b9-8d22-3222a09bdfbf
+
 
 Features
 
