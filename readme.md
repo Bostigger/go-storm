@@ -46,7 +46,7 @@ The program will then prompt you to enter a city name.
 Using the Application
 ```
 Enter the city name (or enter exit to quit)
-London
+Accra
 ```
 
 
